@@ -1,7 +1,7 @@
 {
   "settings": {},
   "rules": {
-    "pull_request": "wahyuoi/peril-settings@dangerfiles/pr.ts",
+    "pull_request": "wahyuoi/peril-settings@dangerfiles/debug.ts",
     "issue": "wahyuoi/peril-settings@dangerfiles/issue.ts"
   },
   "repos" : {
