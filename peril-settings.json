@@ -1,0 +1,9 @@
+{
+  "settings": {},
+  "rules": {
+    "pull_request": "wahyuoi/peril-settings@dangerfiles/pr.ts",
+    "issue": "wahyuoi/peril-settings@dangerfiles/issue.ts"
+  },
+  "repos" : {
+  }
+}
